@@ -1,0 +1,12 @@
+# Project dependencies
+.cache
+.husky
+node_modules
+yarn-error.log
+package-lock.json
+content
+# Build directory
+/public
+.DS_Store
+.vscode/
+.*
