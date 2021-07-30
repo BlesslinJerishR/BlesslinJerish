@@ -2,5 +2,7 @@
   "presets": [
     "@babel/preset-react",
     "babel-preset-gatsby"
+    "react",
+    "es2015"
   ]
 }
