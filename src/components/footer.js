@@ -105,9 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
+        <a>
           <div>Designed &amp; Built by Blesslin Jerish</div>
-
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
@@ -123,6 +122,7 @@ const Footer = () => {
         </a>
       </StyledCredit>
     </StyledFooter>
+    <script type="javascript" src="sonar.js">
   );
 };
 

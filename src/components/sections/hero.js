@@ -64,13 +64,6 @@ const Hero = () => {
 
     const timeout = setTimeout(() => setIsMounted(true), navDelay);
     return () => clearTimeout(timeout);
-
-    const script = document.createElement('script');
-    script.src = "../sonar.js";
-    script.async = true;
-    document.body.appendChild(script);
-    return () => {
-      document.body.removeChild(script);
   }, []);
   const can = <canvas style="position: absolute;left:0;z-index: -1;" id="canvas" width="1680" height="907"></canvas>
   const one = <h1>Hi, my name is</h1>;
