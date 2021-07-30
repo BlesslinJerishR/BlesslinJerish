@@ -45,14 +45,6 @@ const StyledHeroSection = styled.section`
   }
 `;
 
-// <script>
-// // jQuery
-// $.getScript("./styles/jquery/jquery.js", function() {
-//    alert("Script loaded but not necessarily executed.")
-// });
-// </script>
-
-
 const Hero = () => {
   const [isMounted, setIsMounted] = useState(false);
   const prefersReducedMotion = usePrefersReducedMotion();
