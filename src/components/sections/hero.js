@@ -45,12 +45,12 @@ const StyledHeroSection = styled.section`
   }
 `;
 
-<script>
-// jQuery
-$.getScript("./styles/jquery/jquery.js", function() {
-   alert("Script loaded but not necessarily executed.")
-});
-</script>
+// <script>
+// // jQuery
+// $.getScript("./styles/jquery/jquery.js", function() {
+//    alert("Script loaded but not necessarily executed.")
+// });
+// </script>
 
 
 const Hero = () => {

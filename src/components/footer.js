@@ -122,7 +122,7 @@ const Footer = () => {
         </a>
       </StyledCredit>
     </StyledFooter>
-    <script type="javascript" src="sonar.js">
+    // <script type="javascript" src="sonar.js">
   );
 };
 
