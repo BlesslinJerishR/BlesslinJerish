@@ -48,7 +48,7 @@ const StyledHeroSection = styled.section`
 <script>
 // jQuery
 $.getScript("./styles/jquery/jquery.js", function() {
-   alert("Script loaded but not necessarily executed.");
+   alert("Script loaded but not necessarily executed.")
 });
 </script>
 
