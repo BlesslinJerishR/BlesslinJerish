@@ -45,11 +45,6 @@ const StyledHeroSection = styled.section`
   }
 `;
 
-// jQuery
-$.getScript("./styles/jquery/jquery.js", function() {
-   alert("Script loaded but not necessarily executed.");
-});
-
 // JQuery
 
 /*! jQuery v3.6.0 | (c) OpenJS Foundation and other contributors | jquery.org/license */
