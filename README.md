@@ -65,5 +65,5 @@
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#00FF00](https://via.placeholder.com/10/64ffda?text=+) `#00FF00` |
 
-####3 [ BlesslinJerishR ]
+##### [ BlesslinJerishR ]
 ##### [ Developer : Mastermindx33 ]
