@@ -25,7 +25,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   :focus {
-    outline: 2px dashed #00ff00;
+    outline: 2px dashed var(--green);
     outline-offset: 3px;
   }
 
@@ -173,7 +173,7 @@ const GlobalStyle = createGlobalStyle`
       counter-increment: section;
       content: '0' counter(section) '.';
       margin-right: 10px;
-      color: #00ff00;
+      color: var(--green);
       font-family: var(--font-mono);
       font-size: clamp(var(--fz-md), 3vw, var(--fz-xl));
       font-weight: 400;
@@ -240,7 +240,7 @@ const GlobalStyle = createGlobalStyle`
 
     &:hover,
     &:focus {
-      color: #00ff00;
+      color: var(--green);
     }
 
     &.inline-link {
@@ -304,14 +304,14 @@ const GlobalStyle = createGlobalStyle`
           content: '▹';
           position: absolute;
           left: 0;
-          color: #00ff00;
+          color: var(--green);
         }
       }
     }
   }
 
   blockquote {
-    border-left-color: #00ff00;
+    border-left-color: var(--green);
     border-left-style: solid;
     border-left-width: 1px;
     margin-left: 0px;
@@ -351,7 +351,7 @@ const GlobalStyle = createGlobalStyle`
 
     &:focus,
     &:active {
-      background-color: #00ff00;
+      background-color: var(--green);
       color: var(--navy);
       top: 0;
       left: 0;
@@ -363,18 +363,18 @@ const GlobalStyle = createGlobalStyle`
   }
 
   #logo {
-    color: #00ff00;
+    color: var(--green);
   }
 
   .overline {
-    color: #00ff00;
+    color: var(--green);
     font-family: var(--font-mono);
     font-size: var(--fz-md);
     font-weight: 400;
   }
 
   .subtitle {
-    color: #00ff00;
+    color: var(--green);
     margin: 0 0 20px 0;
     font-size: var(--fz-md);
     font-family: var(--font-mono);
@@ -397,7 +397,7 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     align-items: center;
     margin-bottom: 50px;
-    color: #00ff00;
+    color: var(--green);
 
     .arrow {
       display: block;

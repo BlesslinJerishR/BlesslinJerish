@@ -1,9 +1,9 @@
 import { css } from 'styled-components';
 
 const button = css`
-  color: #00ff00;
+  color: var(--green);
   background-color: transparent;
-  border: 1px solid #00ff00;
+  border: 1px solid var(--green);
   border-radius: var(--border-radius);
   font-size: var(--fz-xs);
   font-family: var(--font-mono);
@@ -16,7 +16,7 @@ const button = css`
   &:hover,
   &:focus,
   &:active {
-    /* background-color: #00ff00; */
+    background-color: var(--green-tint);
     outline: none;
   }
   &:after {
@@ -47,7 +47,7 @@ const mixins = {
     &:hover,
     &:active,
     &:focus {
-      color: #00ff00;
+      color: var(--green);
       outline: 0;
     }
   `,
@@ -58,17 +58,17 @@ const mixins = {
     text-decoration-skip-ink: auto;
     position: relative;
     transition: var(--transition);
-    color: #00ff00;
+    color: var(--green);
     &:hover,
     &:focus,
     &:active {
-      color: #00ff00;
+      color: var(--green);
       outline: 0;
       &:after {
         width: 100%;
       }
       & > * {
-        color: #00ff00 !important;
+        color: var(--green) !important;
         transition: var(--transition);
       }
     }
@@ -79,7 +79,7 @@ const mixins = {
       height: 1px;
       position: relative;
       bottom: 0.37em;
-      background-color: #00ff00;
+      background-color: var(--green);
       transition: var(--transition);
       opacity: 0.5;
     }
@@ -88,9 +88,9 @@ const mixins = {
   button,
 
   smallButton: css`
-    color: #00ff00;
+    color: var(--green);
     background-color: transparent;
-    border: 1px solid #00ff00;
+    border: 1px solid var(--green);
     border-radius: var(--border-radius);
     padding: 0.75rem 1rem;
     font-size: var(--fz-xs);
@@ -102,7 +102,7 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: #00ff00
+      background-color: var(--green-tint);
       outline: none;
     }
     &:after {
@@ -111,9 +111,9 @@ const mixins = {
   `,
 
   bigButton: css`
-    color: #00ff00;
+    color: var(--green);
     background-color: transparent;
-    border: 1px solid #00ff00;
+    border: 1px solid var(--green);
     border-radius: var(--border-radius);
     padding: 1.25rem 1.75rem;
     font-size: var(--fz-sm);
@@ -125,7 +125,7 @@ const mixins = {
     &:hover,
     &:focus,
     &:active {
-      background-color: #00ff00
+      background-color: var(--green-tint);
       outline: none;
     }
     &:after {
@@ -156,7 +156,7 @@ const mixins = {
         content: '▹';
         position: absolute;
         left: 0;
-        color: #00ff00;
+        color: var(--green);
       }
     }
   `,

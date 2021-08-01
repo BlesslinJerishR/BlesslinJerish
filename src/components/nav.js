@@ -66,14 +66,14 @@ const StyledNav = styled.nav`
     ${({ theme }) => theme.mixins.flexCenter};
 
     a {
-      color: #00ff00;
+      color: var(--green);
       width: 42px;
       height: 42px;
 
       &:hover,
       &:focus {
         svg {
-          fill: none;
+          fill: var(--green-tint);
         }
       }
 
@@ -112,7 +112,7 @@ const StyledLinks = styled.div`
         &:before {
           content: '0' counter(item) '.';
           margin-right: 5px;
-          color: #00ff00;
+          color: var(--green);
           font-size: var(--fz-xxs);
           text-align: right;
         }

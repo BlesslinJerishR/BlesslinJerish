@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Blesslin Jerish',
     description:
-      'Blesslin Jerish is a software engineer who specializes in building exceptional Web Applications.',
-    siteUrl: 'https://pr0tagonists.github.io', // No trailing slash allowed!
+      'Blesslin Jerish is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@blesslinjerish',
+    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
