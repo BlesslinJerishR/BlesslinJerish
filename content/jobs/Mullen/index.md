@@ -1,6 +1,6 @@
 ---
 date: '2018-12-21'
-title: 'Self Taught'
+title: 'Programming Basics'
 company: 'Freecodecamp'
 location: 'Chennai, Tamilnadu'
 range: 'July - December 2018'
