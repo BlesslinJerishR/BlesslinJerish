@@ -66,7 +66,7 @@ const Hero = () => {
       I'm a software engineer specializing in building exceptional Web Applications.
       Currently, I'm focused on building accessible, interactive human-centered products at{' '}
       <a href="https://pr0tagonists.github.io" target="_blank" rel="noreferrer">
-        Upstatement
+        Pr0tagonists
       </a>
       .
     </p>
