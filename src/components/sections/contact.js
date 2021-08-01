@@ -61,7 +61,7 @@ const Contact = () => {
 
       <p>
         I'm currently looking for new opportunities to work with Start Ups, my inbox is always open.
-        Whether you want to count me in or just want to say hi, I'll defenitely get back to you !
+        Whether you want to count me in or just want to say hi, I'll definitely get back to you !
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
