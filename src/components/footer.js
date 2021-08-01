@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Icon } from '@components/icons';
 import { socialMedia } from '@config';
+import hug from './images/hug.png'
 
 const StyledFooter = styled.footer`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -106,7 +107,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/Mastermindx33/BlesslinJerishR">
-          <div>Made with <img src="./images/hug.png" height="30px" width="30px"> &amp; JavaScript <br> by Blesslin Jerish</div>
+          <div>Made with <img src={hug} alt="hug"/> &amp; JavaScript <br> by Blesslin Jerish</div>
         </a>
       </StyledCredit>
     </StyledFooter>
