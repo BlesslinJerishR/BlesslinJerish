@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Icon } from '@components/icons';
 import { socialMedia } from '@config';
-import hug from './images/hug.png'
+import hug from '../images/hug.png'
 
 const StyledFooter = styled.footer`
   ${({ theme }) => theme.mixins.flexCenter};
