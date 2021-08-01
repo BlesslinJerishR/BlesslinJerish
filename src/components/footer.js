@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/Mastermindx33/BlesslinJerishR">
-          <div>Designed &amp; Built by Blesslin Jerish</div>
+          <div>Made with <img src="./images/hug.png" height="30px" width="30px" &amp; JavaScript <br> by Blesslin Jerish</div>
         </a>
       </StyledCredit>
     </StyledFooter>
