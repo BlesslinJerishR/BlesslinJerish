@@ -9,9 +9,15 @@ const StyledFooter = styled.footer`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
   height: auto;
-  min-height: 70px;
+  /* min-height: 70px; */
   padding: 15px;
   text-align: center;
+
+  img{
+    height: 28px !important;
+    width: 28px !important;
+  }
+
 `;
 
 const StyledSocialLinks = styled.div`
@@ -107,13 +113,12 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/Mastermindx33/BlesslinJerishR">
-          <div>Made with &amp; JavaScript
+          <div>Made with <img src={hug} alt="hug" /> &amp; JavaScript
                <br/> by Blesslin Jerish
           </div>
         </a>
       </StyledCredit>
     </StyledFooter>
-    <img src={hug} alt="hug" /> 
   );
 };
 
