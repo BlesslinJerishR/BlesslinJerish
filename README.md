@@ -6,7 +6,7 @@
 </h1>
 <p align="center">
   <a href="#" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+    <img src="https://api.netlify.com/api/v1/badges/b51b38d7-0d22-4a23-951b-d7efeae595f7/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
