@@ -107,7 +107,6 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://github.com/Mastermindx33/BlesslinJerishR">
           <div>Designed &amp; Built by Blesslin Jerish</div>
-          )}
         </a>
       </StyledCredit>
     </StyledFooter>
