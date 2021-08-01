@@ -111,9 +111,9 @@ const Footer = () => {
                <br/> by Blesslin Jerish
           </div>
         </a>
-        <img src={hug} alt="hug" /> 
       </StyledCredit>
     </StyledFooter>
+    <img src={hug} alt="hug" /> 
   );
 };
 
