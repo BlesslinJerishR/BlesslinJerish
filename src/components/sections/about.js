@@ -144,12 +144,8 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I've had the privilege of learning at{' '}
-              <a href="https://zohoschools.com/">an alternative way to conventional college education</a>,{' '}
-              <a href="https://pr0tagonists.github.io/">a team</a>,{' '} and
-              <a href="https://www.zoho.com/">a huge Product based SaaS corporation</a>. My
-              main focus these days is building accessible, inclusive products and interactive digital
-              experiences at <a href="https://upwork.com/">Upwork</a> for a variety of
-              clients.
+              <a href="https://zohoschools.com/">an alternative way to conventional college education</a>,{' '} <a href="https://pr0tagonists.github.io/">a team</a>,{' '} and <a href="https://www.zoho.com/">a huge Product based SaaS corporation</a>.
+              My main focus these days is building accessible, inclusive products and interactive digital experiences at <a href="https://upwork.com/">Upwork</a> for a variety of clients.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
