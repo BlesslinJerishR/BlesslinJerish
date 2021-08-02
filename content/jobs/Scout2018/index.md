@@ -1,5 +1,5 @@
 ---
-date: '2020-04-02'
+date: '2020-03-01'
 title: 'Learner'
 company: 'No Starch Press'
 location: 'Global'
