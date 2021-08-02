@@ -1,11 +1,13 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-04-01'
+title: 'Developer Intern'
+company: 'Zoho Schools'
+location: 'Estancia, Chennai'
+range: 'May - May 2021'
+url: 'https://zohoschools.com/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Learnt the world of software from an alternative way to conventional college education inside one of the biggest Product based SaaS Corporation
+- Worked on core programming languages and technology stack by building practical applications of projects ranging from Web Applications, Games and Softwares
+- Played with different technology stacks including HTML, CSS, JavaScript ( Vanilla ), Python, Java, MySql and IDEs like Idea, PyCharm, Sublime and VsCode.
+- Solved problems from competitive coding challenges from CodingBat and Hackerrank .
