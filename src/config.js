@@ -4,24 +4,20 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/mastermindx33',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      name: 'Discord',
+      url: 'https://www.discord.com/blesslinjerish',
+    },
+    {
+      name: 'Telegram',
+      url: 'https://t.me/blesslinjerish',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+      url: 'https://twitter.com/blesslinjerish',
+    }
   ],
 
   navLinks: [
@@ -49,7 +45,7 @@ module.exports = {
     darkNavy: '#020c1b',
   },
 
-  srConfig: (delay = 200, viewFactor = 0.25) => ({
+  srConfig: (delay = 200, viewFactor = 0.25) => ({_
     origin: 'bottom',
     distance: '20px',
     duration: 500,
