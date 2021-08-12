@@ -1,14 +1,12 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2021-06-21'
+title: 'Alien Invasion'
+github: 'https://github.com/mastermindx33/ai'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Python
+  - PyGame
+company: 'No Starch Press'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Arcade space classic Alien Shooter game made using Python & PyGame Gaming library with added sound effects.

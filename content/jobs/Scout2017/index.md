@@ -3,7 +3,7 @@ date: '2020-03-01'
 title: 'Learner'
 company: 'No Starch Press'
 location: 'Global'
-range: 'May - May 2020'
+range: 'April - May 2020'
 url: 'https://zohoschools.com/'
 ---
 

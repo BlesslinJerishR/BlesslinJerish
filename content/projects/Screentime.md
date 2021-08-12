@@ -1,15 +1,13 @@
 ---
-date: '2016-11-01'
-title: 'Screentime 2.0'
-github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
-android: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
+date: '2020-08-18'
+title: 'BlueBird'
+github: 'https://github.com/Mastermindx33/BlueBird'
+external: 'https://bbird.netlify.app/'
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
-company: 'Starry'
+  - HTML
+  - CSS
+company: 'Mastermindx33'
 showInProjects: true
 ---
 
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
+Just a Tweet Button with Blue color Bird icon .

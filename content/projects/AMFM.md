@@ -1,14 +1,13 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+date: '2020-08-02'
+title: 'Nolaner'
+github: 'https://github.com/Mastermindx33/Nolaner/'
+external: 'https://nolaner.netlify.app/'
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - HTML
+  - CSS
+company: 'Mastermindx33'
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+Collections of Christopher Nolan's greatest movies of all time in a Grid Animation Box made using pure HTML and CSS.

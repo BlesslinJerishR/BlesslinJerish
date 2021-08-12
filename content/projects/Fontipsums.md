@@ -1,12 +1,14 @@
 ---
-date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+date: '2020-09-01'
+title: 'Marvelian'
+github: 'https://github.com/Mastermindx33/Marvelian/'
+external: 'https:marvelian.netlify.app'
 tech:
   - HTML
-  - SCSS
+  - CSS
+  - BootStrap
+  - Jquery
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+Landing page for Marvel Cinematic Universe Characters .

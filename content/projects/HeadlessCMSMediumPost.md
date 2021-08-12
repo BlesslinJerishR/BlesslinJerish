@@ -1,15 +1,13 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2020-07-12'
+title: 'Food Effect'
+github: 'https://github.com/mastermindx33/foodeffect'
+external: 'https://foodfect.netlify.com'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - HTML
+  - CSS
+company: 'Mastermindx33'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Usage of different transition effects embroidered with mouth watering favorite foods .

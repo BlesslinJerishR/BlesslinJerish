@@ -1,14 +1,13 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+date: '2020-08-03'
+title: 'SherKey'
+github: 'https://github.com/Mastermindx33/SherKey/'
+external: ''
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
+  - Python
+  - Google API
+company: 'Mastermindx33'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Automated Key Searcher for Google mail & Beeps when key value is founded. Google mail is authenticated through API.
