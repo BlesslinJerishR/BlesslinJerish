@@ -136,7 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Halo ! My name is Blesslin and I enjoy creating things that live on the internet. My
+              Hola ! My name is Blesslin and I enjoy creating things that live on the internet. My
               interest in web development started back in 2017 when I decided to start bulding
               HTML websites — turns out hacking together a custom website using inspect element button taught me a lot
               about HTML &amp; CSS !
