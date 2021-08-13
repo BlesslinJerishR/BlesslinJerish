@@ -1,13 +1,14 @@
 ---
-date: '2015-12-20'
-title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
-external: 'https://nuwit.ccs.neu.edu/'
+date: '2020-09-20'
+title: 'Doground'
+github: 'https://github.com/Mastermindx33/Doground'
+external: 'https://doground.netlify.app'
 tech:
-  - Jekyll
-  - Bootstrap
-company: 'Northeastern'
+  - HTML
+  - CSS
+  - JavaScript ( Vanilla )
+company: 'Mastermindx33'
 showInProjects: true
 ---
 
-Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+A Kan-Ban board with various apps tailored for productivity .
