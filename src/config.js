@@ -5,18 +5,6 @@ module.exports = {
     {
       name: 'GitHub',
       url: 'https://github.com/mastermindx33',
-    },
-    {
-      name: 'Discord',
-      url: 'https://www.discord.com/blesslinjerish',
-    },
-    {
-      name: 'Telegram',
-      url: 'https://t.me/blesslinjerish',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/blesslinjerish',
     }
   ],
 
