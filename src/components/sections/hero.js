@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a software engineer specializing in building exceptional Web Applications.
+      I'm a software developer specializing in building exceptional Web Applications.
       Currently, I'm focused on building accessible, interactive human-centered products at{' '}
       <a href="https://pr0tagonists.github.io" target="_blank" rel="noreferrer">
         Pr0tagonists
