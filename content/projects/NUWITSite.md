@@ -1,7 +1,7 @@
 ---
 date: '2020-09-20'
 title: 'Doground'
-github: 'https://github.com/Mastermindx33/Doground'
+github: 'https://github.com/BlesslinJerishR/Doground'
 external: 'https://doground.netlify.app'
 tech:
   - HTML

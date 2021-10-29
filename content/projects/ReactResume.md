@@ -1,8 +1,8 @@
 ---
 date: '2020-08-20'
 title: 'Hello Friend'
-github: 'https://github.com/Mastermindx33/HelloFriend'
-external: 'https://github.com/Mastermindx33'
+github: 'https://github.com/BlesslinJerishR/HelloFriend'
+external: 'https://github.com/BlesslinJerishR'
 tech:
   - Markdown
   - WakaTime

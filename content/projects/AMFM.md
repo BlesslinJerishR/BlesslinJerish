@@ -1,7 +1,7 @@
 ---
 date: '2020-08-02'
 title: 'Nolaner'
-github: 'https://github.com/Mastermindx33/Nolaner/'
+github: 'https://github.com/BlesslinJerishR/Nolaner/'
 external: 'https://nolaner.netlify.app/'
 tech:
   - HTML

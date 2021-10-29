@@ -1,7 +1,7 @@
 ---
 date: '2020-08-18'
 title: 'BlueBird'
-github: 'https://github.com/Mastermindx33/BlueBird'
+github: 'https://github.com/BlesslinJerishR/BlueBird'
 external: 'https://bbird.netlify.app/'
 tech:
   - HTML

@@ -112,7 +112,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/Mastermindx33/BlesslinJerishR">
+        <a href="https://github.com/BlesslinJerishR/BlesslinJerishR">
           <div>Made with <img src={hug} alt="hug" /> &amp; JavaScript
                <br/> by Blesslin Jerish
           </div>

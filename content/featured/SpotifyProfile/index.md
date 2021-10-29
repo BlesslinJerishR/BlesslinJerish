@@ -2,7 +2,7 @@
 date: '2'
 title: 'Logemy'
 cover: './LogDemo.png'
-github: 'https://github.com/Mastermindx33/Logemy'
+github: 'https://github.com/BlesslinJerishR/Logemy'
 external: 'https://logemy.herokuapp.com/'
 tech:
   - HTML

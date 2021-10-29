@@ -1,7 +1,7 @@
 ---
 date: '2021-06-21'
 title: 'Alien Invasion'
-github: 'https://github.com/mastermindx33/ai'
+github: 'https://github.com/BlesslinJerishR/ai'
 tech:
   - Python
   - PyGame

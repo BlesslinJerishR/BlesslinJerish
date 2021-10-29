@@ -2,7 +2,7 @@
 date: '1'
 title: 'LogME'
 cover: './DevSign.png'
-github: 'https://github.com/Mastermindx33/LogME'
+github: 'https://github.com/BlesslinJerishR/LogME'
 tech:
   - Python
   - Sublime Text

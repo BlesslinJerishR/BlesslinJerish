@@ -1,7 +1,7 @@
 ---
 date: '2020-07-12'
 title: 'Food Effect'
-github: 'https://github.com/mastermindx33/foodeffect'
+github: 'https://github.com/BlesslinJerishR/foodeffect'
 external: 'https://foodfect.netlify.com'
 tech:
   - HTML

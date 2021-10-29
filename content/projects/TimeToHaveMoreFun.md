@@ -1,7 +1,7 @@
 ---
 date: '2021-06-28'
 title: 'FitSite'
-github: 'https://github.com/Mastermindx33/FitSite'
+github: 'https://github.com/BlesslinJerishR/FitSite'
 external: 'https://fitsitex33.netlify.com/'
 tech:
   - HTML

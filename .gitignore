@@ -9,3 +9,4 @@ package-lock.json
 .vscode/
 !.husky
 archive.txt
+.history

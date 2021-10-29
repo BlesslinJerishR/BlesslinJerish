@@ -1,7 +1,7 @@
 ---
 date: '2020-07-31'
 title: 'Theatre V'
-github: 'https://github.com/Mastermindx33/TheatreV/'
+github: 'https://github.com/BlesslinJerishR/TheatreV/'
 external: 'https://theatrev.netlify.com/'
 tech:
   - HTML

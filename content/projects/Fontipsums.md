@@ -1,7 +1,7 @@
 ---
 date: '2020-09-01'
 title: 'Marvelian'
-github: 'https://github.com/Mastermindx33/Marvelian/'
+github: 'https://github.com/BlesslinJerishR/Marvelian/'
 external: 'https:marvelian.netlify.app'
 tech:
   - HTML

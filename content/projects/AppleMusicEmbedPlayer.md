@@ -1,7 +1,7 @@
 ---
 date: '2020-08-03'
 title: 'SherKey'
-github: 'https://github.com/Mastermindx33/SherKey/'
+github: 'https://github.com/BlesslinJerishR/SherKey/'
 external: ''
 tech:
   - Python
