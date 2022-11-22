@@ -64,10 +64,13 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software developer specializing in building exceptional Web Applications.
-      Currently, I'm focused on building accessible, interactive human-centered Frontend Web Apps at{' '}
+      Currently, I'm focused on building accessible, interactive human-centered Frontend Web Apps at Home & Loggging everything on {' '} <a href="https://twitter.com/BlesslinJerishR" target="_blank" rel="noreferrer">
+        Twitter. 
+      </a>
+      {/* {' '}
       <a href="https://pr0tagonists.github.io" target="_blank" rel="noreferrer">
         Pr0tagonists 
-      </a>
+      </a> */}
       .
     </p>
   );
